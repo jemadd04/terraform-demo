@@ -2,17 +2,17 @@
 
 I used Terraform to create a Linux virtual machine in Azure and deployed a SQL database as well. 
 
-Main TF file:
+Main TF file:  
 ![](img/terraform-main.PNG)
-Database code:
+Database code:  
 ![](img/terraform-database.PNG)
-Variables (subscription ID, client ID, etc.):
+Variables (subscription ID, client ID, etc.):  
 ![](img/terraform-vars.PNG)
-Visual representation of config:
+Visual representation of config:  
 ![](img/terraform-graph.PNG)
-Resource group showing elements created from Terraform code:
+Resource group showing elements created from Terraform code:  
 ![](img/azure-terraform-resourcegroup.PNG)
-Details on the Linux VM:
+Details on the Linux VM:  
 ![](img/azure-virtual-machine.PNG)
-Created SQL Database:
+Created SQL Database:  
 ![](img/azure-database.PNG)
